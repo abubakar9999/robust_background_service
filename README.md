@@ -1,15 +1,17 @@
 # robust_background_service
 
-A new Flutter plugin project.
+A robust Flutter plugin for handling background services, location tracking, and local notifications on Android and iOS.
+
+## Features
+
+- Run Dart code in the background.
+- Track location in the background.
+- Show local notifications.
 
 ## Getting Started
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/to/develop-plugins),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+To use this plugin, add `robust_background_service` as a [dependency in your pubspec.yaml file](https://flutter.dev/docs/development/packages-and-plugins/using-packages).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Example Usage
 
+See the `example` directory for a complete sample app demonstrating how to initialize and use the background service.

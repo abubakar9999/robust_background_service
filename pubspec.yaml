@@ -1,7 +1,7 @@
 name: robust_background_service
-description: "A new Flutter plugin project."
+description: "A robust Flutter plugin for handling background services, location tracking, and local notifications across platforms."
 version: 0.0.1
-homepage:
+repository: https://github.com/abubakar9999/robust_background_service
 
 environment:
   sdk: ^3.13.4
